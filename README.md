@@ -1,4 +1,4 @@
-# token-studio
+# Token_Studio
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -52,3 +52,5 @@ pnpm test:unit
 ```sh
 pnpm lint
 ```
+
+# Token_Studio
